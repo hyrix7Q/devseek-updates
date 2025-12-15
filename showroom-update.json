@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
+  "downloadUrl": "https://devseekagency/devseek-showroom-1.0.0.exe",
+  "changelog": [
+    "Version initiale.",
+    "Gestion complète des véhicules et des ventes."
+  ],
+  "mandatory": false
+}
